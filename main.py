@@ -30,5 +30,12 @@ def get_letter_count(text):
     
     return count
 
+def get_report(letter_count):
+   letters=letter_count
+   for letter in letters:
+        
+    
+
+    return
 
 main()
